@@ -57,7 +57,7 @@ $things = array(
     "blocks",
     "33 bit files");
 
-$intro = array("It's hard, but can be achieved by a newbie hacker.",
+$intro = array("It's hard, but can be achieved by a newbie.",
     "It's not impossible, you've only got to pay attention to these instructions.",
     "If a 5-Year-old can do this, you can certainly do this.",
     "It's not that hard, you can definitely do it.",
@@ -69,7 +69,7 @@ $start = array("Let's start by getting hold of the " . pick($thing) . ".",
     "To get started, get the " . pick($thing) . ".",
     "To begin you'll need a "  . pick($thing) . " or something similar.");
 
-$versterkingswoorden = array("secure", "encrypted", "internal", "chain of", "X9", "protected", "private", "public", "external");
+$versterkingswoorden = array("secure", "encrypted", "internal", "chain of", "extra strong", "protected", "private", "public", "external");
 $verzwakkingswoorden = array("cracked", "broken", "breached", "open", "exposed", "exploited", "insecure");
 $actions = array(
     "reroute",
